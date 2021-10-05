@@ -1,14 +1,14 @@
 {
-  "name": "boostrap-vue-dashbaord",
+  "name": "bootstrap-vue-dashbaord",
   "version": "0.0.1",
   "description": "Dashboard with Bootstrap and Vue JS.",
   "author": "Gabor Zemko <gaborzemko@gmail.com>",
-  "homepage": "https://github.com/zemkogabor/boostrap-vue-dashboard",
+  "homepage": "https://github.com/zemkogabor/bootstrap-vue-dashboard",
   "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zemkogabor/boostrap-vue-dashboard"
+    "url": "https://github.com/zemkogabor/bootstrap-vue-dashboard"
   },
   "main": "src/index.js",
   "dependencies": {
@@ -32,12 +32,12 @@
     "eslint:fix": "npm run eslint -- --fix"
   },
   "keywords": [
-    "boostrap",
+    "bootstrap",
     "vue",
-    "boostrap5",
+    "bootstrap5",
     "vue3",
     "dashboard",
-    "boostrap dashboard",
-    "boostrap sidebar"
+    "bootstrap dashboard",
+    "bootstrap sidebar"
   ]
 }
