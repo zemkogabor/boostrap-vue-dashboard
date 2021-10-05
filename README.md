@@ -1,6 +1,6 @@
 # Bootstrap-Vue Dashboard
 
-[![NPM version](https://img.shields.io/npm/v/bootstrap-vue-dashboard.svg)](https://www.npmjs.com/package/bootstrap-vue-dashbaord)
+[![NPM version](https://img.shields.io/npm/v/bootstrap-vue-dashboard.svg)](https://www.npmjs.com/package/bootstrap-vue-dashboard)
 
 
 ## Requirements:
@@ -11,5 +11,5 @@
 ## Install:
 
 ```bash
-npm install bootstrap-vue-dashbaord
+npm install bootstrap-vue-dashboard
 ```
